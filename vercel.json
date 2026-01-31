@@ -1,0 +1,15 @@
+{
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "framework": "nextjs",
+    "rewrites": [
+        {
+            "source": "/upsc",
+            "destination": "/"
+        },
+        {
+            "source": "/upsc/pricing",
+            "destination": "/pricing"
+        }
+    ]
+}
