@@ -202,7 +202,7 @@ export default function PricingPage() {
                         </div>
                         <div className="flex items-center gap-2 text-gray-500">
                             <Gift className="w-5 h-5 text-orange-500" />
-                            <span className be className="text-sm font-medium">Cancel Anytime</span>
+                            <span className="text-sm font-medium">Cancel Anytime</span>
                         </div>
                     </div>
 
